@@ -45,7 +45,7 @@ export default function GetInTouch() {
                 Say Hello
               </button>
             </a>
-            <a href="https://wa.me/1234567890" target="_blank" rel="noreferrer" className="ml-4">
+            <a href="https://wa.me/+919074139842" target="_blank" rel="noreferrer" className="ml-4">
               <button className="font-mono text-sm text-AAsecondary border-AAsecondary px-8 py-4 border-[1.5px] rounded">
                 WhatsApp
               </button>
